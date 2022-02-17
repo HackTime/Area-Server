@@ -1,0 +1,49 @@
+body { 
+	background: #000000 url(wall.png) no-repeat top left;
+	font-family: Verdana, Sans-Serif;
+	text-shadow: 2px 2px 2px #000000;
+	color: #000000;
+	margin: 0px;
+	padding: 0px; 
+}
+div.Root_Town {
+	color: #555555;
+	font-size: 42px;
+	margin-top: 270px;
+	margin-left: 580px;
+}
+div.Serverinfo { 
+	color: #FF043F;
+	font-size: 48px;
+	margin-top: 32px;
+	margin-left: 750px;
+}
+div.Server_Symbol {
+	color: #666666;
+	font-size: 24px;
+	margin-left: 600px;
+}
+div.Dungeons {
+	color: #666666;
+	font-size: 24px;
+	margin-top: -32px;
+	margin-left: 1000px;
+}
+div.Lava, div.Fiery, div.Sand, div.Desert, div.Woods, div.Snow, div.Ice, div.Rocky, div.Plains, div.Swamp, div.Grass, div.Machine {
+	color: #FF043F;
+	font-size: 20px;
+	margin-left: 550px;
+	padding-bottom: 2px;
+}
+div.Lava { 	margin-top: 20px; }
+div.Fiery { 	margin-left: 1050px; margin-top: -28px; }
+div.Sand { 	margin-left: 570px; }
+div.Desert { 	margin-left: 1070px; margin-top: -28px; }
+div.Woods { 	margin-left: 590px; }
+div.Snow { 	margin-left: 1090px; margin-top: -28px; }
+div.Ice { 	margin-left: 610px; }
+div.Rocky { 	margin-left: 1110px; margin-top: -28px; }
+div.Plains { 	margin-left: 630px; }
+div.Swamp { 	margin-left: 1130px; margin-top: -28px; }
+div.Grass { 	margin-left: 650px; }
+div.Machine { 	margin-left: 1150px; margin-top: -28px; }

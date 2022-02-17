@@ -1,0 +1,25 @@
+new pointers are = to:
+	exeAddress - Roffset	+ Voffset    + imgBase
+	exeAddress - 0x002fd000 + 0x003aa000 + 0x0040000
+	exeAddress + 0x004AD000
+
+
+
+
+
+004C5DD5 Open Situation
+
+
+
+Done:
+	00663848 Aerial City Fort Ouph
+	0066425C Aerial City Fort Ouph
+	00664BAC Aerial City Fort Ouph
+	0068F87C Aerial City Fort Ouph
+	00663844 Cultural City Carmina Gadelica 	new:002fd000 -> 007aa000
+	00664258 Cultural City Carmina Gadelica
+	00664BA8 Cultural City Carmina Gadelica
+	0068F878 Cultural City Carmina Gadelica
+	004C5C07 Game Status		old:00665608 -> 00265608	new:002fd020 -> 007AA020 -> 20 a0 7a 00
+	0063D868 Leather Armor		old:0064e190 -> 0024e190	new:002fd02d -> 007AA02D -> 2d a0 7a 00
+	0063D86C Leather Armor		Null pointer existed at this address. 

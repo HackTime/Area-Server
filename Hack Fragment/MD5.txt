@@ -1,0 +1,31 @@
+  PS2 ISO MD5 Calculator  v2.01 by Chook
+------------------------------------------
+File Name  : fragment_client_v08.13.iso
+File Size  : 1 235 132 416
+Image Mode : DVD 5
+Size Error : OVERDUMP 372 SECTORS!
+REAL Size  : 1 234 370 560
+ESR Patch  : No
+------------------------------------------
+Created On : 22.05.2016
+Created By : CDVDGEN 1.50                    
+Disk Name  : SLPS-25527                      
+Application: PLAYSTATION                     
+Volume     : 0813                            
+Publisher  : COLDBIRD.NET                    
+Copyright  : COLDBIRD.NET                    
+Producer   : COLDBIRD.NET                    
+Preparer   : MAI                             
+------------------------------------------
+Sony ID    : SLPS-25527
+Version    : 1.03
+Region     : NTSC-J Japan
+Sony LOGO  : Compatible with Sony ID
+------------------------------------------
+FILE MD5: 3d045c8c8bf6f3874ef2aabf6ce1385e
+REAL MD5: 0f1c6aa38870799ff150dbc1d7652ad2
+------------------------------------------
+REAL SECTORS: 602720   SIZE: 0x49930000
+DATA SECTORS: 603092   SIZE: 0x499EA000
+ZERO SECTORS: 0
+===============================================

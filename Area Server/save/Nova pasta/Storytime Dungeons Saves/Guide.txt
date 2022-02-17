@@ -1,0 +1,1 @@
+To use the Storytime Dungeon save files copy the contents of this folder into your Area Server save folder.

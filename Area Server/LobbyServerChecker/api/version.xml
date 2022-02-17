@@ -1,0 +1,12 @@
+﻿<api>
+    <version>1.0.0</version>
+    <apis>
+        <type>ALKHTML</type>
+    </apis>
+    <rootdir>http://fragment.dothackers.org</rootdir>
+    <status>
+        <apiALKHTML>http://a.dothackers.org:49000</apiALKHTML>
+    </status>
+    <changelog>
+    </changelog>
+</api>
